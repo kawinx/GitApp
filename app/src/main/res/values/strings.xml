@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="txt_name">Name : Lakshman Perera</string>
+    <string name="txt_NIC">NIC : 1997457724</string>
+    <string name="txt_email">Email : Lakshman@gmail.com</string>
+    <string name="txt_contact">Contact : 077588422</string>
+    <string name="txt_work">Work Experience : 4 years</string>
+    <string name="txt_type">Type of Vehicle : Van</string>
+    <string name="txt_license">License Number : B288</string>
+</resources>
